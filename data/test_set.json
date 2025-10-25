@@ -1,0 +1,19 @@
+[
+  {
+    "user_id": 3572,
+    "log_num": 17,
+    "logs": [
+      {
+        "exer_id": 472,
+        "score": 1.0,
+        "knowledge_code": [
+          24
+        ]
+      },
+      {
+        "exer_id": 366,
+        "score": 1.0,
+        "knowledge_code": [
+          18
+        ]
+      },........

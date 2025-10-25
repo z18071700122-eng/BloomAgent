@@ -1,0 +1,19 @@
+[
+  {
+    "exer_id": 421,
+    "exer_name": "parabola_intuition_1",
+    "knowledge_code": [
+      11
+    ],
+    "topic": "conic-sections",
+    "area": "algebra"
+  },
+  {
+    "exer_id": 98,
+    "exer_name": "circles_and_arcs",
+    "knowledge_code": [
+      4
+    ],
+    "topic": "area-perimeter-and-volume",
+    "area": "geometry"
+  },........
